@@ -2,6 +2,7 @@
   "name": "wzry-database-server",
   "private": false,
   "version": "0.1.0",
+  "license": "MIT",
   "dependencies": {
     "axios": "^1.6.7",
     "cors": "^2.8.5",
