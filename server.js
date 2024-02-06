@@ -42,7 +42,7 @@ app.get('/items', async (_request, response) => {
 
 app.get('/summoners', async (_request, response) => {
   try {
-    const res = await axios.get('https://pvp.qq.com/web201605/js/summoner1.json');
+    const res = await axios.get('https://pvp.qq.com/web201605/js/summoner.json');
     response.json({
       code: 0,
       data: res.data
