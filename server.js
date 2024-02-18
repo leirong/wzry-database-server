@@ -52,6 +52,31 @@ app.get('/summoners', async (_request, response) => {
   }
 });
 
+app.get('/leagues', async (_request, response) => {
+  try {
+    const res = await axios.get('https://prod.comp.smoba.qq.com/leaguesite/leagues/open');
+    response.json({
+      code: 0,
+      data: res.data.results.reverse()
+    });
+  } catch (error) {
+    handleRequestError(response, 500, '联赛查询失败');
+  }
+});
+
+app.get('/hero-data', async (_request, response) => {
+  try {
+    const { league_id } = _request.query
+    const res = await axios.get(`https://prod.comp.smoba.qq.com/leaguesite/league/hero/settle_list/open?league_id=${league_id}`);
+    response.json({
+      code: 0,
+      data: res.data.data
+    });
+  } catch (error) {
+    handleRequestError(response, 500, '英雄数据查询失败');
+  }
+});
+
 // Start web server on port 3001
 app.listen(3001, () => {
   console.log(`Server is listening at http://localhost:3001`);
