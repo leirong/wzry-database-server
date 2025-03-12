@@ -1,0 +1,10 @@
+name: Keep Render API Awake
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+jobs:
+  keep-awake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ping Render API
+        run: curl https://wzry-database-server.onrender.com/health
