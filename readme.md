@@ -1,14 +1,25 @@
-# 王者荣耀英雄资料库服务端
+# Cloudflare Workers OpenAPI 3.1
 
-## 项目介绍
+This is a Cloudflare Worker with OpenAPI 3.1 using [chanfana](https://github.com/cloudflare/chanfana) and [Hono](https://github.com/honojs/hono).
 
-基于 express 实现王者荣耀英雄资料库服务端
+This is an example project made to be used as a quick start into building OpenAPI compliant Workers that generates the
+`openapi.json` schema automatically from code and validates the incoming request to the defined parameters or request body.
 
-## 接口
+## Get started
 
-- [健康检查](https://wzry-database-server.onrender.com/health)
-- [查询英雄](https://wzry-database-server.onrender.com/heros)
-- [查询局内道具](https://wzry-database-server.onrender.com/items)
-- [查询召唤师技能](https://wzry-database-server.onrender.com/summoners)
-- [查询赛季列表](https://wzry-database-server.onrender.com/leagues)
-- [查询英雄数据排行](https://wzry-database-server.onrender.com/hero-data?league_id=20240001)
+1. Sign up for [Cloudflare Workers](https://workers.dev). The free tier is more than enough for most use cases.
+2. Clone this project and install dependencies with `npm install`
+3. Run `wrangler login` to login to your Cloudflare account in wrangler
+4. Run `wrangler deploy` to publish the API to Cloudflare Workers
+
+## Project structure
+
+1. Your main router is defined in `src/index.ts`.
+2. Each endpoint has its own file in `src/endpoints/`.
+3. For more information read the [chanfana documentation](https://chanfana.pages.dev/) and [Hono documentation](https://hono.dev/docs).
+
+## Development
+
+1. Run `wrangler dev` to start a local instance of the API.
+2. Open `http://localhost:8787/` in your browser to see the Swagger interface where you can try the endpoints.
+3. Changes made in the `src/` folder will automatically trigger the server to reload, you only need to refresh the Swagger interface.

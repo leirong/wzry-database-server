@@ -1,0 +1,42 @@
+import { OpenAPIRoute } from 'chanfana'
+import { z } from 'zod'
+import { AppContext } from '../types'
+
+export class LeagueList extends OpenAPIRoute {
+  schema = {
+    tags: ['查询联赛列表'],
+    summary: '查询联赛列表',
+    responses: {
+      '200': {
+        description: '返回联赛列表',
+        content: {
+          'application/json': {
+            schema: z.object({
+              code: z.number(),
+              data: z.array(z.any()),
+            }),
+          },
+        },
+      },
+    },
+  }
+
+  async handle(c: AppContext) {
+    try {
+      const response = await fetch('https://prod.comp.smoba.qq.com/leaguesite/leagues/open')
+      const data: any = await response.json()
+      return {
+        code: 0,
+        data: data.results.reverse(),
+      }
+    } catch (error) {
+      return c.json(
+        {
+          code: 500,
+          errorMessage: '联赛查询失败',
+        },
+        500,
+      )
+    }
+  }
+}

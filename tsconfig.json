@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    /* Base Options: */
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "target": "esnext",
+    "verbatimModuleSyntax": false,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "moduleDetection": "force",
+    /* Strictness */
+    "noImplicitAny": false,
+    "noImplicitThis": true,
+    "strictNullChecks": false,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    /* If NOT transpiling with TypeScript: */
+    "moduleResolution": "Bundler",
+    "module": "esnext",
+    "noEmit": true,
+    "lib": ["ESNext"],
+    "types": ["@types/node", "@types/service-worker-mock"]
+  },
+  "exclude": ["node_modules", "dist", "tests"],
+  "include": ["src", "worker-configuration.d.ts"]
+}
