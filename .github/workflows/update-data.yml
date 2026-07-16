@@ -1,0 +1,46 @@
+name: Update Data
+
+on:
+  schedule:
+    # 每天一次(UTC 22:17 ≈ 北京时间 06:17),分钟错峰避免整点拥堵
+    - cron: '17 22 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch-data.js'
+      - '.github/workflows/update-data.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: yarn
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Fetch data
+        run: node scripts/fetch-data.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "数据无变化,跳过提交"
+          else
+            git commit -m "chore: update data [skip ci]"
+            git push
+          fi
