@@ -1703,6 +1703,20 @@
       "moss_id": 9132,
       "roles": "2",
       "extra_cold_lane": ""
+    },
+    {
+      "ename": 547,
+      "cname": "卢雅那",
+      "id_name": "luyana",
+      "title": "蛇焰使者",
+      "time": "2026.08.06",
+      "new_type": 1,
+      "hero_type": 5,
+      "skin_name": "蛇焰使者",
+      "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/0806luyana.html",
+      "moss_id": 9183,
+      "roles": "5",
+      "extra_cold_lane": ""
     }
   ]
 }
