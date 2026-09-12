@@ -2,13 +2,13 @@
   "code": 0,
   "data": [
     {
-      "status": 1,
+      "status": 2,
       "league_type_name": "kpl",
       "league_id": "20260003",
       "start_time": "2026-06-17 00:00:00",
       "league_icon": "https://smobatv-pic.tga.qq.com/2395fdfd9f1be7974c0c141bfa500e44.jpg",
       "is_top": 1,
-      "end_time": "2026-09-12 23:59:59",
+      "end_time": "2026-09-13 00:00:05",
       "league_name": "2026年KPL夏季赛",
       "season": 3,
       "year": 2026,
