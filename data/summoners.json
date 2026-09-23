@@ -66,6 +66,12 @@
       "summoner_name": "传送",
       "summoner_rank": "LV.30解锁",
       "summoner_description": "75秒CD：吟唱2秒后，将英雄传送到友方机关（包括被摧毁的防御塔）或小兵身边，传送期间会使用选中单位免疫伤害。任意方式取消【传送】，或使用传送阵30秒内释放【传送】，都会减少25秒技能冷却"
+    },
+    {
+      "summoner_id": 80119,
+      "summoner_name": "雾行千山",
+      "summoner_rank": "赛季限定",
+      "summoner_description": "100秒CD:朝指定方向冲刺穿越墙体，途中闪避最多15%最大生命伤害，留下雾气（持续时间3秒）造成30%减速"
     }
   ]
 }
