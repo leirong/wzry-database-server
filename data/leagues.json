@@ -2,6 +2,20 @@
   "code": 0,
   "data": [
     {
+      "status": 0,
+      "league_type_name": "kpl",
+      "league_id": "20260004",
+      "start_time": "2026-10-02 00:00:00",
+      "league_icon": "https://smobatv-pic.tga.qq.com/0c24b252ce85aa1fb9d876f9e6609982.jpg",
+      "is_top": 1,
+      "end_time": "2026-11-14 23:59:59",
+      "league_name": "2026年KPL年度总决赛",
+      "season": 4,
+      "year": 2026,
+      "cc_league_id": "KPL2026S3",
+      "live_room_address": "https://kpl.qq.com"
+    },
+    {
       "status": 2,
       "league_type_name": "kpl",
       "league_id": "20260003",
