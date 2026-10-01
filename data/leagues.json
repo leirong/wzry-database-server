@@ -2,7 +2,7 @@
   "code": 0,
   "data": [
     {
-      "status": 0,
+      "status": 1,
       "league_type_name": "kpl",
       "league_id": "20260004",
       "start_time": "2026-10-02 00:00:00",
