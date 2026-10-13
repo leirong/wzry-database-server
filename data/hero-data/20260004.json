@@ -3,281 +3,6 @@
   "data": [
     {
       "hero_info": {
-        "hero_id": 537,
-        "hero_name": "司空震",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/537.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 18,
-        "victory_battle_count": 9,
-        "defeated_battle_count": 9,
-        "win_rate": 0.5,
-        "avg_kill_num": 1.3889,
-        "avg_assist_num": 2.7778,
-        "avg_death_num": 1.1667,
-        "avg_kda": 3.3778,
-        "avg_gold": 9881.667,
-        "avg_game_duration": 881444.44
-      },
-      "bp_statistics_info": {
-        "ban_num": 19,
-        "ban_rate": 0.1827,
-        "pick_num": 18,
-        "pick_rate": 0.1731
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 509,
-        "hero_name": "盾山",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/509.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 21,
-        "victory_battle_count": 13,
-        "defeated_battle_count": 8,
-        "win_rate": 0.619,
-        "avg_kill_num": 0.4286,
-        "avg_assist_num": 8.5714,
-        "avg_death_num": 2.1905,
-        "avg_kda": 5.8476,
-        "avg_gold": 7624.1904,
-        "avg_game_duration": 925142.9
-      },
-      "bp_statistics_info": {
-        "ban_num": 74,
-        "ban_rate": 0.7115,
-        "pick_num": 21,
-        "pick_rate": 0.2019
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 531,
-        "hero_name": "镜",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/531.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 16,
-        "victory_battle_count": 10,
-        "defeated_battle_count": 6,
-        "win_rate": 0.625,
-        "avg_kill_num": 3.3125,
-        "avg_assist_num": 4.375,
-        "avg_death_num": 1.75,
-        "avg_kda": 5.5938,
-        "avg_gold": 12768.625,
-        "avg_game_duration": 966500
-      },
-      "bp_statistics_info": {
-        "ban_num": 26,
-        "ban_rate": 0.25,
-        "pick_num": 16,
-        "pick_rate": 0.1538
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 193,
-        "hero_name": "铠",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/193.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 20,
-        "victory_battle_count": 12,
-        "defeated_battle_count": 8,
-        "win_rate": 0.6,
-        "avg_kill_num": 1.25,
-        "avg_assist_num": 4.35,
-        "avg_death_num": 1.75,
-        "avg_kda": 4.405,
-        "avg_gold": 9287.55,
-        "avg_game_duration": 938000
-      },
-      "bp_statistics_info": {
-        "ban_num": 16,
-        "ban_rate": 0.1538,
-        "pick_num": 20,
-        "pick_rate": 0.1923
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 108,
-        "hero_name": "墨子",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/108.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 4,
-        "victory_battle_count": 3,
-        "defeated_battle_count": 1,
-        "win_rate": 0.75,
-        "avg_kill_num": 0.25,
-        "avg_assist_num": 10,
-        "avg_death_num": 2,
-        "avg_kda": 7.3,
-        "avg_gold": 8416.5,
-        "avg_game_duration": 1032750
-      },
-      "bp_statistics_info": {
-        "ban_num": 4,
-        "ban_rate": 0.0385,
-        "pick_num": 4,
-        "pick_rate": 0.0385
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 135,
-        "hero_name": "项羽",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/135.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 13,
-        "victory_battle_count": 8,
-        "defeated_battle_count": 5,
-        "win_rate": 0.6154,
-        "avg_kill_num": 1.0769,
-        "avg_assist_num": 5.3077,
-        "avg_death_num": 2.0769,
-        "avg_kda": 3.8462,
-        "avg_gold": 9043.615,
-        "avg_game_duration": 1051384.6
-      },
-      "bp_statistics_info": {
-        "ban_num": 7,
-        "ban_rate": 0.0673,
-        "pick_num": 13,
-        "pick_rate": 0.125
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 550,
-        "hero_name": "空空儿",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/550.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 2,
-        "victory_battle_count": 2,
-        "defeated_battle_count": 0,
-        "win_rate": 1,
-        "avg_kill_num": 0,
-        "avg_assist_num": 7.5,
-        "avg_death_num": 0.5,
-        "avg_kda": 7.5,
-        "avg_gold": 9571.5,
-        "avg_game_duration": 1089000
-      },
-      "bp_statistics_info": {
-        "ban_num": 2,
-        "ban_rate": 0.0192,
-        "pick_num": 2,
-        "pick_rate": 0.0192
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 547,
-        "hero_name": "卢雅那",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/547.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 6,
-        "victory_battle_count": 3,
-        "defeated_battle_count": 3,
-        "win_rate": 0.5,
-        "avg_kill_num": 2.6667,
-        "avg_assist_num": 4.1667,
-        "avg_death_num": 2.1667,
-        "avg_kda": 4.4167,
-        "avg_gold": 11993.333,
-        "avg_game_duration": 1007333.3
-      },
-      "bp_statistics_info": {
-        "ban_num": 4,
-        "ban_rate": 0.0385,
-        "pick_num": 6,
-        "pick_rate": 0.0577
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 123,
-        "hero_name": "吕布",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/123.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 2,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 1,
-        "win_rate": 0.5,
-        "avg_kill_num": 1.5,
-        "avg_assist_num": 2,
-        "avg_death_num": 1,
-        "avg_kda": 3.5,
-        "avg_gold": 8938,
-        "avg_game_duration": 882500
-      },
-      "bp_statistics_info": {
-        "ban_num": 3,
-        "ban_rate": 0.0288,
-        "pick_num": 2,
-        "pick_rate": 0.0192
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 112,
-        "hero_name": "鲁班七号",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/112.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 1,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 0,
-        "win_rate": 1,
-        "avg_kill_num": 3,
-        "avg_assist_num": 5,
-        "avg_death_num": 0,
-        "avg_kda": 8,
-        "avg_gold": 16120,
-        "avg_game_duration": 1202000
-      },
-      "bp_statistics_info": {
-        "ban_num": 1,
-        "ban_rate": 0.0096,
-        "pick_num": 1,
-        "pick_rate": 0.0096
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 521,
-        "hero_name": "海月",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/521.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 29,
-        "victory_battle_count": 20,
-        "defeated_battle_count": 9,
-        "win_rate": 0.6897,
-        "avg_kill_num": 1.6552,
-        "avg_assist_num": 3.8966,
-        "avg_death_num": 1.5862,
-        "avg_kda": 4.1069,
-        "avg_gold": 9222.793,
-        "avg_game_duration": 969310.4
-      },
-      "bp_statistics_info": {
-        "ban_num": 59,
-        "ban_rate": 0.5673,
-        "pick_num": 29,
-        "pick_rate": 0.2788
-      }
-    },
-    {
-      "hero_info": {
         "hero_id": 163,
         "hero_name": "橘右京",
         "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/163.jpg"
@@ -296,959 +21,9 @@
       },
       "bp_statistics_info": {
         "ban_num": 10,
-        "ban_rate": 0.0962,
+        "ban_rate": 0.0952,
         "pick_num": 11,
-        "pick_rate": 0.1058
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 133,
-        "hero_name": "狄仁杰",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/133.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 3,
-        "defeated_battle_count": 0,
-        "win_rate": 1,
-        "avg_kill_num": 0.6667,
-        "avg_assist_num": 6.3333,
-        "avg_death_num": 0.3333,
-        "avg_kda": 7,
-        "avg_gold": 10558.333,
-        "avg_game_duration": 871666.7
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 169,
-        "hero_name": "后羿",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/169.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 2,
-        "win_rate": 0.3333,
-        "avg_kill_num": 1.3333,
-        "avg_assist_num": 2.3333,
-        "avg_death_num": 2,
-        "avg_kda": 2.1,
-        "avg_gold": 8523.333,
-        "avg_game_duration": 816666.7
-      },
-      "bp_statistics_info": {
-        "ban_num": 7,
-        "ban_rate": 0.0673,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 113,
-        "hero_name": "庄周",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/113.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 1,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 0,
-        "win_rate": 1,
-        "avg_kill_num": 2,
-        "avg_assist_num": 10,
-        "avg_death_num": 1,
-        "avg_kda": 12,
-        "avg_gold": 7207,
-        "avg_game_duration": 773000
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 1,
-        "pick_rate": 0.0096
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 517,
-        "hero_name": "大司命",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/517.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 12,
-        "victory_battle_count": 6,
-        "defeated_battle_count": 6,
-        "win_rate": 0.5,
-        "avg_kill_num": 1.25,
-        "avg_assist_num": 3.8333,
-        "avg_death_num": 1.6667,
-        "avg_kda": 3.4417,
-        "avg_gold": 10744.5,
-        "avg_game_duration": 1025083.3
-      },
-      "bp_statistics_info": {
-        "ban_num": 26,
-        "ban_rate": 0.25,
-        "pick_num": 12,
-        "pick_rate": 0.1154
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 142,
-        "hero_name": "安琪拉",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/142.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 17,
-        "victory_battle_count": 6,
-        "defeated_battle_count": 11,
-        "win_rate": 0.3529,
-        "avg_kill_num": 1.7647,
-        "avg_assist_num": 3.8824,
-        "avg_death_num": 1.5294,
-        "avg_kda": 4.6,
-        "avg_gold": 8690.883,
-        "avg_game_duration": 902529.44
-      },
-      "bp_statistics_info": {
-        "ban_num": 18,
-        "ban_rate": 0.1731,
-        "pick_num": 17,
-        "pick_rate": 0.1635
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 545,
-        "hero_name": "莱西奥",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/545.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 21,
-        "victory_battle_count": 10,
-        "defeated_battle_count": 11,
-        "win_rate": 0.4762,
-        "avg_kill_num": 2.619,
-        "avg_assist_num": 3.619,
-        "avg_death_num": 1.381,
-        "avg_kda": 4.6476,
-        "avg_gold": 12282.048,
-        "avg_game_duration": 1003809.5
-      },
-      "bp_statistics_info": {
-        "ban_num": 4,
-        "ban_rate": 0.0385,
-        "pick_num": 21,
-        "pick_rate": 0.2019
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 140,
-        "hero_name": "关羽",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/140.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 27,
-        "victory_battle_count": 16,
-        "defeated_battle_count": 11,
-        "win_rate": 0.5926,
-        "avg_kill_num": 1.3704,
-        "avg_assist_num": 4.2222,
-        "avg_death_num": 1.4444,
-        "avg_kda": 4.537,
-        "avg_gold": 10997.074,
-        "avg_game_duration": 1027111.1
-      },
-      "bp_statistics_info": {
-        "ban_num": 62,
-        "ban_rate": 0.5962,
-        "pick_num": 27,
-        "pick_rate": 0.2596
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 171,
-        "hero_name": "张飞",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/171.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 36,
-        "victory_battle_count": 20,
-        "defeated_battle_count": 16,
-        "win_rate": 0.5556,
-        "avg_kill_num": 0.4444,
-        "avg_assist_num": 5.2778,
-        "avg_death_num": 1.1111,
-        "avg_kda": 4.7,
-        "avg_gold": 7749.5835,
-        "avg_game_duration": 979694.44
-      },
-      "bp_statistics_info": {
-        "ban_num": 17,
-        "ban_rate": 0.1635,
-        "pick_num": 36,
-        "pick_rate": 0.3462
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 581,
-        "hero_name": "元流之子(坦克)",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/581.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 4,
-        "victory_battle_count": 3,
-        "defeated_battle_count": 1,
-        "win_rate": 0.75,
-        "avg_kill_num": 1.5,
-        "avg_assist_num": 5.25,
-        "avg_death_num": 1,
-        "avg_kda": 6.125,
-        "avg_gold": 9578.75,
-        "avg_game_duration": 926500
-      },
-      "bp_statistics_info": {
-        "ban_num": 10,
-        "ban_rate": 0.0962,
-        "pick_num": 4,
-        "pick_rate": 0.0385
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 558,
-        "hero_name": "影",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/558.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 8,
-        "victory_battle_count": 5,
-        "defeated_battle_count": 3,
-        "win_rate": 0.625,
-        "avg_kill_num": 2.5,
-        "avg_assist_num": 3.375,
-        "avg_death_num": 1.375,
-        "avg_kda": 4.95,
-        "avg_gold": 11141.5,
-        "avg_game_duration": 944125
-      },
-      "bp_statistics_info": {
-        "ban_num": 1,
-        "ban_rate": 0.0096,
-        "pick_num": 8,
-        "pick_rate": 0.0769
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 563,
-        "hero_name": "海诺",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/563.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 2,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 1,
-        "win_rate": 0.5,
-        "avg_kill_num": 1.5,
-        "avg_assist_num": 6.5,
-        "avg_death_num": 0.5,
-        "avg_kda": 8,
-        "avg_gold": 11496.5,
-        "avg_game_duration": 1108500
-      },
-      "bp_statistics_info": {
-        "ban_num": 1,
-        "ban_rate": 0.0096,
-        "pick_num": 2,
-        "pick_rate": 0.0192
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 152,
-        "hero_name": "王昭君",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/152.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 1,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 0,
-        "win_rate": 1,
-        "avg_kill_num": 1,
-        "avg_assist_num": 8,
-        "avg_death_num": 0,
-        "avg_kda": 9,
-        "avg_gold": 8298,
-        "avg_game_duration": 942000
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 1,
-        "pick_rate": 0.0096
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 174,
-        "hero_name": "虞姬",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/174.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 4,
-        "victory_battle_count": 2,
-        "defeated_battle_count": 2,
-        "win_rate": 0.5,
-        "avg_kill_num": 1.75,
-        "avg_assist_num": 2,
-        "avg_death_num": 1.5,
-        "avg_kda": 3,
-        "avg_gold": 10711,
-        "avg_game_duration": 907250
-      },
-      "bp_statistics_info": {
-        "ban_num": 2,
-        "ban_rate": 0.0192,
-        "pick_num": 4,
-        "pick_rate": 0.0385
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 577,
-        "hero_name": "少司缘",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/577.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 32,
-        "victory_battle_count": 13,
-        "defeated_battle_count": 19,
-        "win_rate": 0.4063,
-        "avg_kill_num": 0.4688,
-        "avg_assist_num": 5.0938,
-        "avg_death_num": 1.6563,
-        "avg_kda": 4.2063,
-        "avg_gold": 8694.031,
-        "avg_game_duration": 978593.75
-      },
-      "bp_statistics_info": {
-        "ban_num": 11,
-        "ban_rate": 0.1058,
-        "pick_num": 32,
-        "pick_rate": 0.3077
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 312,
-        "hero_name": "沈梦溪",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/312.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 36,
-        "victory_battle_count": 19,
-        "defeated_battle_count": 17,
-        "win_rate": 0.5278,
-        "avg_kill_num": 1.3611,
-        "avg_assist_num": 4.4444,
-        "avg_death_num": 1.0833,
-        "avg_kda": 4.8056,
-        "avg_gold": 9584.833,
-        "avg_game_duration": 988166.7
-      },
-      "bp_statistics_info": {
-        "ban_num": 18,
-        "ban_rate": 0.1731,
-        "pick_num": 36,
-        "pick_rate": 0.3462
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 519,
-        "hero_name": "敖隐",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/519.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 33,
-        "victory_battle_count": 17,
-        "defeated_battle_count": 16,
-        "win_rate": 0.5152,
-        "avg_kill_num": 2.5152,
-        "avg_assist_num": 3.3333,
-        "avg_death_num": 0.8182,
-        "avg_kda": 5.6758,
-        "avg_gold": 11327.484,
-        "avg_game_duration": 921606.06
-      },
-      "bp_statistics_info": {
-        "ban_num": 29,
-        "ban_rate": 0.2788,
-        "pick_num": 33,
-        "pick_rate": 0.3173
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 197,
-        "hero_name": "弈星",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/197.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 2,
-        "victory_battle_count": 0,
-        "defeated_battle_count": 2,
-        "win_rate": 0,
-        "avg_kill_num": 0,
-        "avg_assist_num": 7,
-        "avg_death_num": 3.5,
-        "avg_kda": 1.9,
-        "avg_gold": 7386,
-        "avg_game_duration": 932500
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 2,
-        "pick_rate": 0.0192
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 198,
-        "hero_name": "梦奇",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/198.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 1,
-        "victory_battle_count": 0,
-        "defeated_battle_count": 1,
-        "win_rate": 0,
-        "avg_kill_num": 0,
-        "avg_assist_num": 1,
-        "avg_death_num": 1,
-        "avg_kda": 1,
-        "avg_gold": 9042,
-        "avg_game_duration": 968000
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 1,
-        "pick_rate": 0.0096
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 515,
-        "hero_name": "嫦娥",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/515.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 7,
-        "victory_battle_count": 4,
-        "defeated_battle_count": 3,
-        "win_rate": 0.5714,
-        "avg_kill_num": 0.7143,
-        "avg_assist_num": 4.8571,
-        "avg_death_num": 0.8571,
-        "avg_kda": 4.7143,
-        "avg_gold": 10206.429,
-        "avg_game_duration": 1031285.7
-      },
-      "bp_statistics_info": {
-        "ban_num": 1,
-        "ban_rate": 0.0096,
-        "pick_num": 7,
-        "pick_rate": 0.0673
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 179,
-        "hero_name": "女娲",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/179.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 16,
-        "victory_battle_count": 10,
-        "defeated_battle_count": 6,
-        "win_rate": 0.625,
-        "avg_kill_num": 1.125,
-        "avg_assist_num": 5.25,
-        "avg_death_num": 0.9375,
-        "avg_kda": 6.1875,
-        "avg_gold": 9772.9375,
-        "avg_game_duration": 982812.5
-      },
-      "bp_statistics_info": {
-        "ban_num": 15,
-        "ban_rate": 0.1442,
-        "pick_num": 16,
-        "pick_rate": 0.1538
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 148,
-        "hero_name": "姜子牙",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/148.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 5,
-        "victory_battle_count": 3,
-        "defeated_battle_count": 2,
-        "win_rate": 0.6,
-        "avg_kill_num": 1,
-        "avg_assist_num": 4.6,
-        "avg_death_num": 1.2,
-        "avg_kda": 4.2,
-        "avg_gold": 8762.2,
-        "avg_game_duration": 964600
-      },
-      "bp_statistics_info": {
-        "ban_num": 4,
-        "ban_rate": 0.0385,
-        "pick_num": 5,
-        "pick_rate": 0.0481
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 121,
-        "hero_name": "芈月",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/121.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 4,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 3,
-        "win_rate": 0.25,
-        "avg_kill_num": 2.75,
-        "avg_assist_num": 3,
-        "avg_death_num": 2.75,
-        "avg_kda": 1.7,
-        "avg_gold": 12667.75,
-        "avg_game_duration": 1086250
-      },
-      "bp_statistics_info": {
-        "ban_num": 14,
-        "ban_rate": 0.1346,
-        "pick_num": 4,
-        "pick_rate": 0.0385
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 542,
-        "hero_name": "暃",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/542.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 4,
-        "victory_battle_count": 0,
-        "defeated_battle_count": 4,
-        "win_rate": 0,
-        "avg_kill_num": 3.25,
-        "avg_assist_num": 1.75,
-        "avg_death_num": 3,
-        "avg_kda": 2.05,
-        "avg_gold": 11426.25,
-        "avg_game_duration": 910500
-      },
-      "bp_statistics_info": {
-        "ban_num": 3,
-        "ban_rate": 0.0288,
-        "pick_num": 4,
-        "pick_rate": 0.0385
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 134,
-        "hero_name": "达摩",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/134.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 6,
-        "victory_battle_count": 0,
-        "defeated_battle_count": 6,
-        "win_rate": 0,
-        "avg_kill_num": 0.1667,
-        "avg_assist_num": 0.8333,
-        "avg_death_num": 2.5,
-        "avg_kda": 0.4667,
-        "avg_gold": 8158.3335,
-        "avg_game_duration": 950333.3
-      },
-      "bp_statistics_info": {
-        "ban_num": 1,
-        "ban_rate": 0.0096,
-        "pick_num": 6,
-        "pick_rate": 0.0577
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 155,
-        "hero_name": "艾琳",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/155.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 22,
-        "victory_battle_count": 13,
-        "defeated_battle_count": 9,
-        "win_rate": 0.5909,
-        "avg_kill_num": 4.0455,
-        "avg_assist_num": 3.5455,
-        "avg_death_num": 1.7727,
-        "avg_kda": 5.2864,
-        "avg_gold": 11913.863,
-        "avg_game_duration": 941409.06
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 22,
-        "pick_rate": 0.2115
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 175,
-        "hero_name": "钟馗",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/175.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 21,
-        "victory_battle_count": 8,
-        "defeated_battle_count": 13,
-        "win_rate": 0.381,
-        "avg_kill_num": 0.5238,
-        "avg_assist_num": 7.1429,
-        "avg_death_num": 3.0952,
-        "avg_kda": 3.9333,
-        "avg_gold": 6934,
-        "avg_game_duration": 881285.7
-      },
-      "bp_statistics_info": {
-        "ban_num": 38,
-        "ban_rate": 0.3654,
-        "pick_num": 21,
-        "pick_rate": 0.2019
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 151,
-        "hero_name": "孙权",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/151.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 2,
-        "defeated_battle_count": 1,
-        "win_rate": 0.6667,
-        "avg_kill_num": 2.6667,
-        "avg_assist_num": 4,
-        "avg_death_num": 1.6667,
-        "avg_kda": 3.7667,
-        "avg_gold": 12966,
-        "avg_game_duration": 1062333.4
-      },
-      "bp_statistics_info": {
-        "ban_num": 2,
-        "ban_rate": 0.0192,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 584,
-        "hero_name": "元流之子(射手)",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/584.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 19,
-        "victory_battle_count": 7,
-        "defeated_battle_count": 12,
-        "win_rate": 0.3684,
-        "avg_kill_num": 1.4211,
-        "avg_assist_num": 3.1053,
-        "avg_death_num": 1.3684,
-        "avg_kda": 3.5526,
-        "avg_gold": 12851.421,
-        "avg_game_duration": 1075789.5
-      },
-      "bp_statistics_info": {
-        "ban_num": 14,
-        "ban_rate": 0.1346,
-        "pick_num": 19,
-        "pick_rate": 0.1827
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 172,
-        "hero_name": "蚩奼",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/172.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 2,
-        "victory_battle_count": 0,
-        "defeated_battle_count": 2,
-        "win_rate": 0,
-        "avg_kill_num": 0.5,
-        "avg_assist_num": 0,
-        "avg_death_num": 1,
-        "avg_kda": 0.5,
-        "avg_gold": 7846,
-        "avg_game_duration": 752500
-      },
-      "bp_statistics_info": {
-        "ban_num": 2,
-        "ban_rate": 0.0192,
-        "pick_num": 2,
-        "pick_rate": 0.0192
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 502,
-        "hero_name": "裴擒虎",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/502.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 20,
-        "victory_battle_count": 9,
-        "defeated_battle_count": 11,
-        "win_rate": 0.45,
-        "avg_kill_num": 2.5,
-        "avg_assist_num": 2.55,
-        "avg_death_num": 1.8,
-        "avg_kda": 3.63,
-        "avg_gold": 11570.05,
-        "avg_game_duration": 913950
-      },
-      "bp_statistics_info": {
-        "ban_num": 26,
-        "ban_rate": 0.25,
-        "pick_num": 20,
-        "pick_rate": 0.1923
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 518,
-        "hero_name": "马超",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/518.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 18,
-        "victory_battle_count": 8,
-        "defeated_battle_count": 10,
-        "win_rate": 0.4444,
-        "avg_kill_num": 2.3889,
-        "avg_assist_num": 2.6667,
-        "avg_death_num": 2,
-        "avg_kda": 3.5278,
-        "avg_gold": 11587.777,
-        "avg_game_duration": 935333.3
-      },
-      "bp_statistics_info": {
-        "ban_num": 16,
-        "ban_rate": 0.1538,
-        "pick_num": 18,
-        "pick_rate": 0.1731
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 110,
-        "hero_name": "嬴政",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/110.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 5,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 4,
-        "win_rate": 0.2,
-        "avg_kill_num": 1.4,
-        "avg_assist_num": 3.8,
-        "avg_death_num": 1,
-        "avg_kda": 4.7,
-        "avg_gold": 9918.8,
-        "avg_game_duration": 959200
-      },
-      "bp_statistics_info": {
-        "ban_num": 1,
-        "ban_rate": 0.0096,
-        "pick_num": 5,
-        "pick_rate": 0.0481
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 548,
-        "hero_name": "戈娅",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/548.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 37,
-        "victory_battle_count": 16,
-        "defeated_battle_count": 21,
-        "win_rate": 0.4324,
-        "avg_kill_num": 2.2703,
-        "avg_assist_num": 3.1622,
-        "avg_death_num": 1.1351,
-        "avg_kda": 4.6514,
-        "avg_gold": 11618.162,
-        "avg_game_duration": 946378.4
-      },
-      "bp_statistics_info": {
-        "ban_num": 19,
-        "ban_rate": 0.1827,
-        "pick_num": 37,
-        "pick_rate": 0.3558
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 130,
-        "hero_name": "宫本武藏",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/130.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 0,
-        "defeated_battle_count": 3,
-        "win_rate": 0,
-        "avg_kill_num": 1.6667,
-        "avg_assist_num": 1.3333,
-        "avg_death_num": 3,
-        "avg_kda": 0.9333,
-        "avg_gold": 10648.333,
-        "avg_game_duration": 959666.7
-      },
-      "bp_statistics_info": {
-        "ban_num": 3,
-        "ban_rate": 0.0288,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 139,
-        "hero_name": "老夫子",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/139.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 2,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 1,
-        "win_rate": 0.5,
-        "avg_kill_num": 0,
-        "avg_assist_num": 2,
-        "avg_death_num": 1.5,
-        "avg_kda": 1.25,
-        "avg_gold": 12824,
-        "avg_game_duration": 1138000
-      },
-      "bp_statistics_info": {
-        "ban_num": 7,
-        "ban_rate": 0.0673,
-        "pick_num": 2,
-        "pick_rate": 0.0192
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 126,
-        "hero_name": "夏侯惇",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/126.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 12,
-        "victory_battle_count": 6,
-        "defeated_battle_count": 6,
-        "win_rate": 0.5,
-        "avg_kill_num": 0.6667,
-        "avg_assist_num": 4.5,
-        "avg_death_num": 2,
-        "avg_kda": 3.6583,
-        "avg_gold": 9320.417,
-        "avg_game_duration": 922000
-      },
-      "bp_statistics_info": {
-        "ban_num": 12,
-        "ban_rate": 0.1154,
-        "pick_num": 12,
-        "pick_rate": 0.1154
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 177,
-        "hero_name": "苍",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/177.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 19,
-        "victory_battle_count": 8,
-        "defeated_battle_count": 11,
-        "win_rate": 0.4211,
-        "avg_kill_num": 1.6316,
-        "avg_assist_num": 3.3158,
-        "avg_death_num": 1.4211,
-        "avg_kda": 4.0579,
-        "avg_gold": 11448.368,
-        "avg_game_duration": 970157.9
-      },
-      "bp_statistics_info": {
-        "ban_num": 8,
-        "ban_rate": 0.0769,
-        "pick_num": 19,
-        "pick_rate": 0.1827
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 107,
-        "hero_name": "赵云",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/107.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 36,
-        "victory_battle_count": 21,
-        "defeated_battle_count": 15,
-        "win_rate": 0.5833,
-        "avg_kill_num": 2.1667,
-        "avg_assist_num": 4.2778,
-        "avg_death_num": 1.5,
-        "avg_kda": 5.1861,
-        "avg_gold": 11858.861,
-        "avg_game_duration": 960500
-      },
-      "bp_statistics_info": {
-        "ban_num": 39,
-        "ban_rate": 0.375,
-        "pick_num": 36,
-        "pick_rate": 0.3462
+        "pick_rate": 0.1048
       }
     },
     {
@@ -1271,484 +46,34 @@
       },
       "bp_statistics_info": {
         "ban_num": 8,
-        "ban_rate": 0.0769,
+        "ban_rate": 0.0762,
         "pick_num": 9,
-        "pick_rate": 0.0865
+        "pick_rate": 0.0857
       }
     },
     {
       "hero_info": {
-        "hero_id": 176,
-        "hero_name": "杨玉环",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/176.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 7,
-        "victory_battle_count": 4,
-        "defeated_battle_count": 3,
-        "win_rate": 0.5714,
-        "avg_kill_num": 1.5714,
-        "avg_assist_num": 3.5714,
-        "avg_death_num": 1.4286,
-        "avg_kda": 4.1143,
-        "avg_gold": 9213.714,
-        "avg_game_duration": 926428.56
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 7,
-        "pick_rate": 0.0673
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 168,
-        "hero_name": "牛魔",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/168.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 0,
-        "defeated_battle_count": 3,
-        "win_rate": 0,
-        "avg_kill_num": 0.3333,
-        "avg_assist_num": 5,
-        "avg_death_num": 3,
-        "avg_kda": 1.3667,
-        "avg_gold": 9064,
-        "avg_game_duration": 1185666.6
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 523,
-        "hero_name": "西施",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/523.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 2,
-        "win_rate": 0.3333,
-        "avg_kill_num": 0.3333,
-        "avg_assist_num": 5,
-        "avg_death_num": 2.6667,
-        "avg_kda": 1.6667,
-        "avg_gold": 7618.3335,
-        "avg_game_duration": 1030666.7
-      },
-      "bp_statistics_info": {
-        "ban_num": 2,
-        "ban_rate": 0.0192,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 105,
-        "hero_name": "廉颇",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/105.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 1,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 0,
-        "win_rate": 1,
-        "avg_kill_num": 2,
-        "avg_assist_num": 10,
-        "avg_death_num": 2,
-        "avg_kda": 6,
-        "avg_gold": 9395,
-        "avg_game_duration": 1117000
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 1,
-        "pick_rate": 0.0096
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 194,
-        "hero_name": "苏烈",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/194.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 35,
-        "victory_battle_count": 17,
-        "defeated_battle_count": 18,
-        "win_rate": 0.4857,
-        "avg_kill_num": 0.5714,
-        "avg_assist_num": 5.7714,
-        "avg_death_num": 2.0286,
-        "avg_kda": 4.2771,
-        "avg_gold": 7564.6284,
-        "avg_game_duration": 962742.9
-      },
-      "bp_statistics_info": {
-        "ban_num": 12,
-        "ban_rate": 0.1154,
-        "pick_num": 35,
-        "pick_rate": 0.3365
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 511,
-        "hero_name": "猪八戒",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/511.jpg"
+        "hero_id": 581,
+        "hero_name": "元流之子(坦克)",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/581.jpg"
       },
       "statistics_info": {
         "battle_count": 4,
-        "victory_battle_count": 0,
-        "defeated_battle_count": 4,
-        "win_rate": 0,
-        "avg_kill_num": 1,
-        "avg_assist_num": 3,
-        "avg_death_num": 4.5,
-        "avg_kda": 1.1,
-        "avg_gold": 9980.5,
-        "avg_game_duration": 1131000
-      },
-      "bp_statistics_info": {
-        "ban_num": 3,
-        "ban_rate": 0.0288,
-        "pick_num": 4,
-        "pick_rate": 0.0385
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 156,
-        "hero_name": "张良",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/156.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 2,
-        "win_rate": 0.3333,
-        "avg_kill_num": 1,
-        "avg_assist_num": 4.6667,
-        "avg_death_num": 3,
-        "avg_kda": 2.3667,
-        "avg_gold": 8054,
-        "avg_game_duration": 1038666.7
-      },
-      "bp_statistics_info": {
-        "ban_num": 6,
-        "ban_rate": 0.0577,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 533,
-        "hero_name": "阿古朵",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/533.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 7,
         "victory_battle_count": 3,
-        "defeated_battle_count": 4,
-        "win_rate": 0.4286,
-        "avg_kill_num": 2.7143,
-        "avg_assist_num": 3.7143,
-        "avg_death_num": 1.4286,
-        "avg_kda": 4.6857,
-        "avg_gold": 10798,
-        "avg_game_duration": 907714.3
-      },
-      "bp_statistics_info": {
-        "ban_num": 13,
-        "ban_rate": 0.125,
-        "pick_num": 7,
-        "pick_rate": 0.0673
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 125,
-        "hero_name": "元歌",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/125.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 1,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 0,
-        "win_rate": 1,
-        "avg_kill_num": 5,
-        "avg_assist_num": 7,
-        "avg_death_num": 1,
-        "avg_kda": 12,
-        "avg_gold": 10095,
-        "avg_game_duration": 773000
-      },
-      "bp_statistics_info": {
-        "ban_num": 1,
-        "ban_rate": 0.0096,
-        "pick_num": 1,
-        "pick_rate": 0.0096
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 157,
-        "hero_name": "不知火舞",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/157.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 16,
-        "victory_battle_count": 5,
-        "defeated_battle_count": 11,
-        "win_rate": 0.3125,
-        "avg_kill_num": 0.8125,
-        "avg_assist_num": 3.0625,
-        "avg_death_num": 2.0625,
-        "avg_kda": 2.9875,
-        "avg_gold": 8527.5,
-        "avg_game_duration": 906000
-      },
-      "bp_statistics_info": {
-        "ban_num": 21,
-        "ban_rate": 0.2019,
-        "pick_num": 16,
-        "pick_rate": 0.1538
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 186,
-        "hero_name": "太乙真人",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/186.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 22,
-        "victory_battle_count": 10,
-        "defeated_battle_count": 12,
-        "win_rate": 0.4545,
-        "avg_kill_num": 0.2273,
-        "avg_assist_num": 5.0909,
-        "avg_death_num": 1.4091,
-        "avg_kda": 4.3227,
-        "avg_gold": 7462.091,
-        "avg_game_duration": 911909.06
-      },
-      "bp_statistics_info": {
-        "ban_num": 4,
-        "ban_rate": 0.0385,
-        "pick_num": 22,
-        "pick_rate": 0.2115
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 525,
-        "hero_name": "鲁班大师",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/525.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 9,
-        "victory_battle_count": 6,
-        "defeated_battle_count": 3,
-        "win_rate": 0.6667,
-        "avg_kill_num": 0.2222,
-        "avg_assist_num": 7,
-        "avg_death_num": 1.3333,
-        "avg_kda": 5.5778,
-        "avg_gold": 6849.8887,
-        "avg_game_duration": 845444.44
-      },
-      "bp_statistics_info": {
-        "ban_num": 95,
-        "ban_rate": 0.9135,
-        "pick_num": 9,
-        "pick_rate": 0.0865
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 503,
-        "hero_name": "狂铁",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/503.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 25,
-        "victory_battle_count": 11,
-        "defeated_battle_count": 14,
-        "win_rate": 0.44,
-        "avg_kill_num": 0.92,
-        "avg_assist_num": 3.64,
-        "avg_death_num": 1.6,
-        "avg_kda": 3.448,
-        "avg_gold": 8817.24,
-        "avg_game_duration": 882040
-      },
-      "bp_statistics_info": {
-        "ban_num": 17,
-        "ban_rate": 0.1635,
-        "pick_num": 25,
-        "pick_rate": 0.2404
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 187,
-        "hero_name": "东皇太一",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/187.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 2,
         "defeated_battle_count": 1,
-        "win_rate": 0.6667,
-        "avg_kill_num": 1.6667,
-        "avg_assist_num": 8.3333,
-        "avg_death_num": 2.3333,
-        "avg_kda": 5.6667,
-        "avg_gold": 9680.667,
-        "avg_game_duration": 1194333.4
+        "win_rate": 0.75,
+        "avg_kill_num": 1.5,
+        "avg_assist_num": 5.25,
+        "avg_death_num": 1,
+        "avg_kda": 6.125,
+        "avg_gold": 9578.75,
+        "avg_game_duration": 926500
       },
       "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 128,
-        "hero_name": "曹操",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/128.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 37,
-        "victory_battle_count": 23,
-        "defeated_battle_count": 14,
-        "win_rate": 0.6216,
-        "avg_kill_num": 2.8649,
-        "avg_assist_num": 3.4595,
-        "avg_death_num": 1.1351,
-        "avg_kda": 5.4054,
-        "avg_gold": 11627.405,
-        "avg_game_duration": 960000
-      },
-      "bp_statistics_info": {
-        "ban_num": 7,
-        "ban_rate": 0.0673,
-        "pick_num": 37,
-        "pick_rate": 0.3558
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 196,
-        "hero_name": "百里守约",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/196.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 26,
-        "victory_battle_count": 17,
-        "defeated_battle_count": 9,
-        "win_rate": 0.6538,
-        "avg_kill_num": 1.8462,
-        "avg_assist_num": 3.2692,
-        "avg_death_num": 0.4615,
-        "avg_kda": 4.8654,
-        "avg_gold": 11449,
-        "avg_game_duration": 934500
-      },
-      "bp_statistics_info": {
-        "ban_num": 16,
-        "ban_rate": 0.1538,
-        "pick_num": 26,
-        "pick_rate": 0.25
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 170,
-        "hero_name": "刘备",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/170.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 3,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 2,
-        "win_rate": 0.3333,
-        "avg_kill_num": 1.6667,
-        "avg_assist_num": 1,
-        "avg_death_num": 1.3333,
-        "avg_kda": 2.4333,
-        "avg_gold": 10886.667,
-        "avg_game_duration": 828000
-      },
-      "bp_statistics_info": {
-        "ban_num": 0,
-        "ban_rate": 0,
-        "pick_num": 3,
-        "pick_rate": 0.0288
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 106,
-        "hero_name": "小乔",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/106.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 29,
-        "victory_battle_count": 12,
-        "defeated_battle_count": 17,
-        "win_rate": 0.4138,
-        "avg_kill_num": 1.4483,
-        "avg_assist_num": 5.069,
-        "avg_death_num": 1.7586,
-        "avg_kda": 4.3345,
-        "avg_gold": 8551.655,
-        "avg_game_duration": 929172.44
-      },
-      "bp_statistics_info": {
-        "ban_num": 8,
-        "ban_rate": 0.0769,
-        "pick_num": 29,
-        "pick_rate": 0.2788
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 138,
-        "hero_name": "王维",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/138.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 15,
-        "victory_battle_count": 9,
-        "defeated_battle_count": 6,
-        "win_rate": 0.6,
-        "avg_kill_num": 1.8667,
-        "avg_assist_num": 4,
-        "avg_death_num": 1.4,
-        "avg_kda": 4.5,
-        "avg_gold": 9785.667,
-        "avg_game_duration": 963400
-      },
-      "bp_statistics_info": {
-        "ban_num": 6,
-        "ban_rate": 0.0577,
-        "pick_num": 15,
-        "pick_rate": 0.1442
+        "ban_num": 10,
+        "ban_rate": 0.0952,
+        "pick_num": 4,
+        "pick_rate": 0.0381
       }
     },
     {
@@ -1770,10 +95,135 @@
         "avg_game_duration": 967125
       },
       "bp_statistics_info": {
-        "ban_num": 19,
-        "ban_rate": 0.1827,
+        "ban_num": 20,
+        "ban_rate": 0.1905,
         "pick_num": 8,
-        "pick_rate": 0.0769
+        "pick_rate": 0.0762
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 148,
+        "hero_name": "姜子牙",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/148.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 5,
+        "victory_battle_count": 3,
+        "defeated_battle_count": 2,
+        "win_rate": 0.6,
+        "avg_kill_num": 1,
+        "avg_assist_num": 4.6,
+        "avg_death_num": 1.2,
+        "avg_kda": 4.2,
+        "avg_gold": 8762.2,
+        "avg_game_duration": 964600
+      },
+      "bp_statistics_info": {
+        "ban_num": 4,
+        "ban_rate": 0.0381,
+        "pick_num": 5,
+        "pick_rate": 0.0476
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 536,
+        "hero_name": "夏洛特",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/536.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 34,
+        "victory_battle_count": 13,
+        "defeated_battle_count": 21,
+        "win_rate": 0.3824,
+        "avg_kill_num": 1.5882,
+        "avg_assist_num": 2.3235,
+        "avg_death_num": 1.8824,
+        "avg_kda": 2.6794,
+        "avg_gold": 10573.559,
+        "avg_game_duration": 948558.8
+      },
+      "bp_statistics_info": {
+        "ban_num": 17,
+        "ban_rate": 0.1619,
+        "pick_num": 34,
+        "pick_rate": 0.3238
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 180,
+        "hero_name": "哪吒",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/180.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 13,
+        "victory_battle_count": 8,
+        "defeated_battle_count": 5,
+        "win_rate": 0.6154,
+        "avg_kill_num": 3.0769,
+        "avg_assist_num": 6.3846,
+        "avg_death_num": 1.8462,
+        "avg_kda": 7.0615,
+        "avg_gold": 11758.23,
+        "avg_game_duration": 956769.25
+      },
+      "bp_statistics_info": {
+        "ban_num": 35,
+        "ban_rate": 0.3333,
+        "pick_num": 13,
+        "pick_rate": 0.1238
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 110,
+        "hero_name": "嬴政",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/110.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 5,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 4,
+        "win_rate": 0.2,
+        "avg_kill_num": 1.4,
+        "avg_assist_num": 3.8,
+        "avg_death_num": 1,
+        "avg_kda": 4.7,
+        "avg_gold": 9918.8,
+        "avg_game_duration": 959200
+      },
+      "bp_statistics_info": {
+        "ban_num": 1,
+        "ban_rate": 0.0095,
+        "pick_num": 5,
+        "pick_rate": 0.0476
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 519,
+        "hero_name": "敖隐",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/519.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 34,
+        "victory_battle_count": 18,
+        "defeated_battle_count": 16,
+        "win_rate": 0.5294,
+        "avg_kill_num": 2.5882,
+        "avg_assist_num": 3.3824,
+        "avg_death_num": 0.7941,
+        "avg_kda": 5.8029,
+        "avg_gold": 11301.117,
+        "avg_game_duration": 917794.1
+      },
+      "bp_statistics_info": {
+        "ban_num": 29,
+        "ban_rate": 0.2762,
+        "pick_num": 34,
+        "pick_rate": 0.3238
       }
     },
     {
@@ -1798,7 +248,57 @@
         "ban_num": 0,
         "ban_rate": 0,
         "pick_num": 4,
-        "pick_rate": 0.0385
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 194,
+        "hero_name": "苏烈",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/194.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 36,
+        "victory_battle_count": 17,
+        "defeated_battle_count": 19,
+        "win_rate": 0.4722,
+        "avg_kill_num": 0.5833,
+        "avg_assist_num": 5.7778,
+        "avg_death_num": 2.0556,
+        "avg_kda": 4.2222,
+        "avg_gold": 7514.5,
+        "avg_game_duration": 958000
+      },
+      "bp_statistics_info": {
+        "ban_num": 12,
+        "ban_rate": 0.1143,
+        "pick_num": 36,
+        "pick_rate": 0.3429
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 157,
+        "hero_name": "不知火舞",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/157.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 16,
+        "victory_battle_count": 5,
+        "defeated_battle_count": 11,
+        "win_rate": 0.3125,
+        "avg_kill_num": 0.8125,
+        "avg_assist_num": 3.0625,
+        "avg_death_num": 2.0625,
+        "avg_kda": 2.9875,
+        "avg_gold": 8527.5,
+        "avg_game_duration": 906000
+      },
+      "bp_statistics_info": {
+        "ban_num": 21,
+        "ban_rate": 0.2,
+        "pick_num": 16,
+        "pick_rate": 0.1524
       }
     },
     {
@@ -1820,35 +320,385 @@
         "avg_game_duration": 956954.56
       },
       "bp_statistics_info": {
-        "ban_num": 31,
-        "ban_rate": 0.2981,
+        "ban_num": 32,
+        "ban_rate": 0.3048,
         "pick_num": 22,
-        "pick_rate": 0.2115
+        "pick_rate": 0.2095
       }
     },
     {
       "hero_info": {
-        "hero_id": 136,
-        "hero_name": "武则天",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/136.jpg"
+        "hero_id": 525,
+        "hero_name": "鲁班大师",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/525.jpg"
       },
       "statistics_info": {
-        "battle_count": 17,
+        "battle_count": 9,
+        "victory_battle_count": 6,
+        "defeated_battle_count": 3,
+        "win_rate": 0.6667,
+        "avg_kill_num": 0.2222,
+        "avg_assist_num": 7,
+        "avg_death_num": 1.3333,
+        "avg_kda": 5.5778,
+        "avg_gold": 6849.8887,
+        "avg_game_duration": 845444.44
+      },
+      "bp_statistics_info": {
+        "ban_num": 96,
+        "ban_rate": 0.9143,
+        "pick_num": 9,
+        "pick_rate": 0.0857
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 133,
+        "hero_name": "狄仁杰",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/133.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 3,
+        "victory_battle_count": 3,
+        "defeated_battle_count": 0,
+        "win_rate": 1,
+        "avg_kill_num": 0.6667,
+        "avg_assist_num": 6.3333,
+        "avg_death_num": 0.3333,
+        "avg_kda": 7,
+        "avg_gold": 10558.333,
+        "avg_game_duration": 871666.7
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 3,
+        "pick_rate": 0.0286
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 106,
+        "hero_name": "小乔",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/106.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 29,
+        "victory_battle_count": 12,
+        "defeated_battle_count": 17,
+        "win_rate": 0.4138,
+        "avg_kill_num": 1.4483,
+        "avg_assist_num": 5.069,
+        "avg_death_num": 1.7586,
+        "avg_kda": 4.3345,
+        "avg_gold": 8551.655,
+        "avg_game_duration": 929172.44
+      },
+      "bp_statistics_info": {
+        "ban_num": 8,
+        "ban_rate": 0.0762,
+        "pick_num": 29,
+        "pick_rate": 0.2762
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 187,
+        "hero_name": "东皇太一",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/187.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 3,
+        "victory_battle_count": 2,
+        "defeated_battle_count": 1,
+        "win_rate": 0.6667,
+        "avg_kill_num": 1.6667,
+        "avg_assist_num": 8.3333,
+        "avg_death_num": 2.3333,
+        "avg_kda": 5.6667,
+        "avg_gold": 9680.667,
+        "avg_game_duration": 1194333.4
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 3,
+        "pick_rate": 0.0286
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 312,
+        "hero_name": "沈梦溪",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/312.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 36,
+        "victory_battle_count": 19,
+        "defeated_battle_count": 17,
+        "win_rate": 0.5278,
+        "avg_kill_num": 1.3611,
+        "avg_assist_num": 4.4444,
+        "avg_death_num": 1.0833,
+        "avg_kda": 4.8056,
+        "avg_gold": 9584.833,
+        "avg_game_duration": 988166.7
+      },
+      "bp_statistics_info": {
+        "ban_num": 18,
+        "ban_rate": 0.1714,
+        "pick_num": 36,
+        "pick_rate": 0.3429
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 531,
+        "hero_name": "镜",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/531.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 16,
+        "victory_battle_count": 10,
+        "defeated_battle_count": 6,
+        "win_rate": 0.625,
+        "avg_kill_num": 3.3125,
+        "avg_assist_num": 4.375,
+        "avg_death_num": 1.75,
+        "avg_kda": 5.5938,
+        "avg_gold": 12768.625,
+        "avg_game_duration": 966500
+      },
+      "bp_statistics_info": {
+        "ban_num": 26,
+        "ban_rate": 0.2476,
+        "pick_num": 16,
+        "pick_rate": 0.1524
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 527,
+        "hero_name": "蒙恬",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/527.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 6,
+        "victory_battle_count": 4,
+        "defeated_battle_count": 2,
+        "win_rate": 0.6667,
+        "avg_kill_num": 1.5,
+        "avg_assist_num": 5.6667,
+        "avg_death_num": 1.3333,
+        "avg_kda": 6.95,
+        "avg_gold": 9625,
+        "avg_game_duration": 993666.7
+      },
+      "bp_statistics_info": {
+        "ban_num": 23,
+        "ban_rate": 0.219,
+        "pick_num": 6,
+        "pick_rate": 0.0571
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 125,
+        "hero_name": "元歌",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/125.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 1,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 0,
+        "win_rate": 1,
+        "avg_kill_num": 5,
+        "avg_assist_num": 7,
+        "avg_death_num": 1,
+        "avg_kda": 12,
+        "avg_gold": 10095,
+        "avg_game_duration": 773000
+      },
+      "bp_statistics_info": {
+        "ban_num": 1,
+        "ban_rate": 0.0095,
+        "pick_num": 1,
+        "pick_rate": 0.0095
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 134,
+        "hero_name": "达摩",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/134.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 6,
+        "victory_battle_count": 0,
+        "defeated_battle_count": 6,
+        "win_rate": 0,
+        "avg_kill_num": 0.1667,
+        "avg_assist_num": 0.8333,
+        "avg_death_num": 2.5,
+        "avg_kda": 0.4667,
+        "avg_gold": 8158.3335,
+        "avg_game_duration": 950333.3
+      },
+      "bp_statistics_info": {
+        "ban_num": 1,
+        "ban_rate": 0.0095,
+        "pick_num": 6,
+        "pick_rate": 0.0571
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 128,
+        "hero_name": "曹操",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/128.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 37,
+        "victory_battle_count": 23,
+        "defeated_battle_count": 14,
+        "win_rate": 0.6216,
+        "avg_kill_num": 2.8649,
+        "avg_assist_num": 3.4595,
+        "avg_death_num": 1.1351,
+        "avg_kda": 5.4054,
+        "avg_gold": 11627.405,
+        "avg_game_duration": 960000
+      },
+      "bp_statistics_info": {
+        "ban_num": 7,
+        "ban_rate": 0.0667,
+        "pick_num": 37,
+        "pick_rate": 0.3524
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 142,
+        "hero_name": "安琪拉",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/142.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 18,
         "victory_battle_count": 7,
-        "defeated_battle_count": 10,
-        "win_rate": 0.4118,
-        "avg_kill_num": 0.8235,
-        "avg_assist_num": 4.2941,
-        "avg_death_num": 1.5294,
-        "avg_kda": 3.6471,
-        "avg_gold": 8207.823,
-        "avg_game_duration": 929470.56
+        "defeated_battle_count": 11,
+        "win_rate": 0.3889,
+        "avg_kill_num": 1.8333,
+        "avg_assist_num": 3.9444,
+        "avg_death_num": 1.5,
+        "avg_kda": 4.7889,
+        "avg_gold": 8637.667,
+        "avg_game_duration": 896388.9
+      },
+      "bp_statistics_info": {
+        "ban_num": 18,
+        "ban_rate": 0.1714,
+        "pick_num": 18,
+        "pick_rate": 0.1714
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 121,
+        "hero_name": "芈月",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/121.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 4,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 3,
+        "win_rate": 0.25,
+        "avg_kill_num": 2.75,
+        "avg_assist_num": 3,
+        "avg_death_num": 2.75,
+        "avg_kda": 1.7,
+        "avg_gold": 12667.75,
+        "avg_game_duration": 1086250
       },
       "bp_statistics_info": {
         "ban_num": 14,
-        "ban_rate": 0.1346,
-        "pick_num": 17,
-        "pick_rate": 0.1635
+        "ban_rate": 0.1333,
+        "pick_num": 4,
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 177,
+        "hero_name": "苍",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/177.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 19,
+        "victory_battle_count": 8,
+        "defeated_battle_count": 11,
+        "win_rate": 0.4211,
+        "avg_kill_num": 1.6316,
+        "avg_assist_num": 3.3158,
+        "avg_death_num": 1.4211,
+        "avg_kda": 4.0579,
+        "avg_gold": 11448.368,
+        "avg_game_duration": 970157.9
+      },
+      "bp_statistics_info": {
+        "ban_num": 8,
+        "ban_rate": 0.0762,
+        "pick_num": 19,
+        "pick_rate": 0.181
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 518,
+        "hero_name": "马超",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/518.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 18,
+        "victory_battle_count": 8,
+        "defeated_battle_count": 10,
+        "win_rate": 0.4444,
+        "avg_kill_num": 2.3889,
+        "avg_assist_num": 2.6667,
+        "avg_death_num": 2,
+        "avg_kda": 3.5278,
+        "avg_gold": 11587.777,
+        "avg_game_duration": 935333.3
+      },
+      "bp_statistics_info": {
+        "ban_num": 16,
+        "ban_rate": 0.1524,
+        "pick_num": 18,
+        "pick_rate": 0.1714
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 126,
+        "hero_name": "夏侯惇",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/126.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 12,
+        "victory_battle_count": 6,
+        "defeated_battle_count": 6,
+        "win_rate": 0.5,
+        "avg_kill_num": 0.6667,
+        "avg_assist_num": 4.5,
+        "avg_death_num": 2,
+        "avg_kda": 3.6583,
+        "avg_gold": 9320.417,
+        "avg_game_duration": 922000
+      },
+      "bp_statistics_info": {
+        "ban_num": 12,
+        "ban_rate": 0.1143,
+        "pick_num": 12,
+        "pick_rate": 0.1143
       }
     },
     {
@@ -1871,59 +721,34 @@
       },
       "bp_statistics_info": {
         "ban_num": 1,
-        "ban_rate": 0.0096,
+        "ban_rate": 0.0095,
         "pick_num": 3,
-        "pick_rate": 0.0288
+        "pick_rate": 0.0286
       }
     },
     {
       "hero_info": {
-        "hero_id": 527,
-        "hero_name": "蒙恬",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/527.jpg"
+        "hero_id": 113,
+        "hero_name": "庄周",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/113.jpg"
       },
       "statistics_info": {
-        "battle_count": 6,
-        "victory_battle_count": 4,
-        "defeated_battle_count": 2,
-        "win_rate": 0.6667,
-        "avg_kill_num": 1.5,
-        "avg_assist_num": 5.6667,
-        "avg_death_num": 1.3333,
-        "avg_kda": 6.95,
-        "avg_gold": 9625,
-        "avg_game_duration": 993666.7
+        "battle_count": 1,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 0,
+        "win_rate": 1,
+        "avg_kill_num": 2,
+        "avg_assist_num": 10,
+        "avg_death_num": 1,
+        "avg_kda": 12,
+        "avg_gold": 7207,
+        "avg_game_duration": 773000
       },
       "bp_statistics_info": {
-        "ban_num": 22,
-        "ban_rate": 0.2115,
-        "pick_num": 6,
-        "pick_rate": 0.0577
-      }
-    },
-    {
-      "hero_info": {
-        "hero_id": 180,
-        "hero_name": "哪吒",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/180.jpg"
-      },
-      "statistics_info": {
-        "battle_count": 13,
-        "victory_battle_count": 8,
-        "defeated_battle_count": 5,
-        "win_rate": 0.6154,
-        "avg_kill_num": 3.0769,
-        "avg_assist_num": 6.3846,
-        "avg_death_num": 1.8462,
-        "avg_kda": 7.0615,
-        "avg_gold": 11758.23,
-        "avg_game_duration": 956769.25
-      },
-      "bp_statistics_info": {
-        "ban_num": 35,
-        "ban_rate": 0.3365,
-        "pick_num": 13,
-        "pick_rate": 0.125
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 1,
+        "pick_rate": 0.0095
       }
     },
     {
@@ -1946,9 +771,184 @@
       },
       "bp_statistics_info": {
         "ban_num": 9,
-        "ban_rate": 0.0865,
+        "ban_rate": 0.0857,
         "pick_num": 4,
-        "pick_rate": 0.0385
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 175,
+        "hero_name": "钟馗",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/175.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 21,
+        "victory_battle_count": 8,
+        "defeated_battle_count": 13,
+        "win_rate": 0.381,
+        "avg_kill_num": 0.5238,
+        "avg_assist_num": 7.1429,
+        "avg_death_num": 3.0952,
+        "avg_kda": 3.9333,
+        "avg_gold": 6934,
+        "avg_game_duration": 881285.7
+      },
+      "bp_statistics_info": {
+        "ban_num": 39,
+        "ban_rate": 0.3714,
+        "pick_num": 21,
+        "pick_rate": 0.2
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 136,
+        "hero_name": "武则天",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/136.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 17,
+        "victory_battle_count": 7,
+        "defeated_battle_count": 10,
+        "win_rate": 0.4118,
+        "avg_kill_num": 0.8235,
+        "avg_assist_num": 4.2941,
+        "avg_death_num": 1.5294,
+        "avg_kda": 3.6471,
+        "avg_gold": 8207.823,
+        "avg_game_duration": 929470.56
+      },
+      "bp_statistics_info": {
+        "ban_num": 14,
+        "ban_rate": 0.1333,
+        "pick_num": 17,
+        "pick_rate": 0.1619
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 168,
+        "hero_name": "牛魔",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/168.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 3,
+        "victory_battle_count": 0,
+        "defeated_battle_count": 3,
+        "win_rate": 0,
+        "avg_kill_num": 0.3333,
+        "avg_assist_num": 5,
+        "avg_death_num": 3,
+        "avg_kda": 1.3667,
+        "avg_gold": 9064,
+        "avg_game_duration": 1185666.6
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 3,
+        "pick_rate": 0.0286
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 197,
+        "hero_name": "弈星",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/197.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 2,
+        "victory_battle_count": 0,
+        "defeated_battle_count": 2,
+        "win_rate": 0,
+        "avg_kill_num": 0,
+        "avg_assist_num": 7,
+        "avg_death_num": 3.5,
+        "avg_kda": 1.9,
+        "avg_gold": 7386,
+        "avg_game_duration": 932500
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 2,
+        "pick_rate": 0.019
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 563,
+        "hero_name": "海诺",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/563.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 2,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 1,
+        "win_rate": 0.5,
+        "avg_kill_num": 1.5,
+        "avg_assist_num": 6.5,
+        "avg_death_num": 0.5,
+        "avg_kda": 8,
+        "avg_gold": 11496.5,
+        "avg_game_duration": 1108500
+      },
+      "bp_statistics_info": {
+        "ban_num": 1,
+        "ban_rate": 0.0095,
+        "pick_num": 2,
+        "pick_rate": 0.019
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 502,
+        "hero_name": "裴擒虎",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/502.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 20,
+        "victory_battle_count": 9,
+        "defeated_battle_count": 11,
+        "win_rate": 0.45,
+        "avg_kill_num": 2.5,
+        "avg_assist_num": 2.55,
+        "avg_death_num": 1.8,
+        "avg_kda": 3.63,
+        "avg_gold": 11570.05,
+        "avg_game_duration": 913950
+      },
+      "bp_statistics_info": {
+        "ban_num": 26,
+        "ban_rate": 0.2476,
+        "pick_num": 20,
+        "pick_rate": 0.1905
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 509,
+        "hero_name": "盾山",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/509.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 21,
+        "victory_battle_count": 13,
+        "defeated_battle_count": 8,
+        "win_rate": 0.619,
+        "avg_kill_num": 0.4286,
+        "avg_assist_num": 8.5714,
+        "avg_death_num": 2.1905,
+        "avg_kda": 5.8476,
+        "avg_gold": 7624.1904,
+        "avg_game_duration": 925142.9
+      },
+      "bp_statistics_info": {
+        "ban_num": 75,
+        "ban_rate": 0.7143,
+        "pick_num": 21,
+        "pick_rate": 0.2
       }
     },
     {
@@ -1971,84 +971,109 @@
       },
       "bp_statistics_info": {
         "ban_num": 10,
-        "ban_rate": 0.0962,
+        "ban_rate": 0.0952,
         "pick_num": 8,
-        "pick_rate": 0.0769
+        "pick_rate": 0.0762
       }
     },
     {
       "hero_info": {
-        "hero_id": 544,
-        "hero_name": "赵怀真",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/544.jpg"
+        "hero_id": 130,
+        "hero_name": "宫本武藏",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/130.jpg"
       },
       "statistics_info": {
-        "battle_count": 4,
-        "victory_battle_count": 2,
-        "defeated_battle_count": 2,
-        "win_rate": 0.5,
-        "avg_kill_num": 0.75,
-        "avg_assist_num": 6,
-        "avg_death_num": 3.5,
-        "avg_kda": 3.125,
-        "avg_gold": 8630,
-        "avg_game_duration": 1050000
+        "battle_count": 3,
+        "victory_battle_count": 0,
+        "defeated_battle_count": 3,
+        "win_rate": 0,
+        "avg_kill_num": 1.6667,
+        "avg_assist_num": 1.3333,
+        "avg_death_num": 3,
+        "avg_kda": 0.9333,
+        "avg_gold": 10648.333,
+        "avg_game_duration": 959666.7
       },
       "bp_statistics_info": {
-        "ban_num": 1,
-        "ban_rate": 0.0096,
-        "pick_num": 4,
-        "pick_rate": 0.0385
+        "ban_num": 3,
+        "ban_rate": 0.0286,
+        "pick_num": 3,
+        "pick_rate": 0.0286
       }
     },
     {
       "hero_info": {
-        "hero_id": 538,
-        "hero_name": "云缨",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/538.jpg"
+        "hero_id": 198,
+        "hero_name": "梦奇",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/198.jpg"
       },
       "statistics_info": {
-        "battle_count": 5,
-        "victory_battle_count": 1,
-        "defeated_battle_count": 4,
-        "win_rate": 0.2,
-        "avg_kill_num": 2.2,
-        "avg_assist_num": 1.8,
-        "avg_death_num": 1.6,
-        "avg_kda": 3.2,
-        "avg_gold": 12291,
-        "avg_game_duration": 1019800
+        "battle_count": 1,
+        "victory_battle_count": 0,
+        "defeated_battle_count": 1,
+        "win_rate": 0,
+        "avg_kill_num": 0,
+        "avg_assist_num": 1,
+        "avg_death_num": 1,
+        "avg_kda": 1,
+        "avg_gold": 9042,
+        "avg_game_duration": 968000
       },
       "bp_statistics_info": {
-        "ban_num": 4,
-        "ban_rate": 0.0385,
-        "pick_num": 5,
-        "pick_rate": 0.0481
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 1,
+        "pick_rate": 0.0095
       }
     },
     {
       "hero_info": {
-        "hero_id": 536,
-        "hero_name": "夏洛特",
-        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/536.jpg"
+        "hero_id": 171,
+        "hero_name": "张飞",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/171.jpg"
       },
       "statistics_info": {
-        "battle_count": 33,
-        "victory_battle_count": 13,
-        "defeated_battle_count": 20,
-        "win_rate": 0.3939,
-        "avg_kill_num": 1.5758,
-        "avg_assist_num": 2.3636,
-        "avg_death_num": 1.8485,
-        "avg_kda": 2.7303,
-        "avg_gold": 10644.849,
-        "avg_game_duration": 953303
+        "battle_count": 36,
+        "victory_battle_count": 20,
+        "defeated_battle_count": 16,
+        "win_rate": 0.5556,
+        "avg_kill_num": 0.4444,
+        "avg_assist_num": 5.2778,
+        "avg_death_num": 1.1111,
+        "avg_kda": 4.7,
+        "avg_gold": 7749.5835,
+        "avg_game_duration": 979694.44
       },
       "bp_statistics_info": {
         "ban_num": 17,
-        "ban_rate": 0.1635,
-        "pick_num": 33,
-        "pick_rate": 0.3173
+        "ban_rate": 0.1619,
+        "pick_num": 36,
+        "pick_rate": 0.3429
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 155,
+        "hero_name": "艾琳",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/155.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 22,
+        "victory_battle_count": 13,
+        "defeated_battle_count": 9,
+        "win_rate": 0.5909,
+        "avg_kill_num": 4.0455,
+        "avg_assist_num": 3.5455,
+        "avg_death_num": 1.7727,
+        "avg_kda": 5.2864,
+        "avg_gold": 11913.863,
+        "avg_game_duration": 941409.06
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 22,
+        "pick_rate": 0.2095
       }
     },
     {
@@ -2071,9 +1096,984 @@
       },
       "bp_statistics_info": {
         "ban_num": 2,
-        "ban_rate": 0.0192,
+        "ban_rate": 0.019,
         "pick_num": 8,
-        "pick_rate": 0.0769
+        "pick_rate": 0.0762
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 584,
+        "hero_name": "元流之子(射手)",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/584.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 19,
+        "victory_battle_count": 7,
+        "defeated_battle_count": 12,
+        "win_rate": 0.3684,
+        "avg_kill_num": 1.4211,
+        "avg_assist_num": 3.1053,
+        "avg_death_num": 1.3684,
+        "avg_kda": 3.5526,
+        "avg_gold": 12851.421,
+        "avg_game_duration": 1075789.5
+      },
+      "bp_statistics_info": {
+        "ban_num": 14,
+        "ban_rate": 0.1333,
+        "pick_num": 19,
+        "pick_rate": 0.181
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 511,
+        "hero_name": "猪八戒",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/511.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 4,
+        "victory_battle_count": 0,
+        "defeated_battle_count": 4,
+        "win_rate": 0,
+        "avg_kill_num": 1,
+        "avg_assist_num": 3,
+        "avg_death_num": 4.5,
+        "avg_kda": 1.1,
+        "avg_gold": 9980.5,
+        "avg_game_duration": 1131000
+      },
+      "bp_statistics_info": {
+        "ban_num": 3,
+        "ban_rate": 0.0286,
+        "pick_num": 4,
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 523,
+        "hero_name": "西施",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/523.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 4,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 3,
+        "win_rate": 0.25,
+        "avg_kill_num": 0.5,
+        "avg_assist_num": 5.25,
+        "avg_death_num": 2.25,
+        "avg_kda": 3,
+        "avg_gold": 7094.25,
+        "avg_game_duration": 971000
+      },
+      "bp_statistics_info": {
+        "ban_num": 2,
+        "ban_rate": 0.019,
+        "pick_num": 4,
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 548,
+        "hero_name": "戈娅",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/548.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 37,
+        "victory_battle_count": 16,
+        "defeated_battle_count": 21,
+        "win_rate": 0.4324,
+        "avg_kill_num": 2.2703,
+        "avg_assist_num": 3.1622,
+        "avg_death_num": 1.1351,
+        "avg_kda": 4.6514,
+        "avg_gold": 11618.162,
+        "avg_game_duration": 946378.4
+      },
+      "bp_statistics_info": {
+        "ban_num": 19,
+        "ban_rate": 0.181,
+        "pick_num": 37,
+        "pick_rate": 0.3524
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 193,
+        "hero_name": "铠",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/193.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 20,
+        "victory_battle_count": 12,
+        "defeated_battle_count": 8,
+        "win_rate": 0.6,
+        "avg_kill_num": 1.25,
+        "avg_assist_num": 4.35,
+        "avg_death_num": 1.75,
+        "avg_kda": 4.405,
+        "avg_gold": 9287.55,
+        "avg_game_duration": 938000
+      },
+      "bp_statistics_info": {
+        "ban_num": 17,
+        "ban_rate": 0.1619,
+        "pick_num": 20,
+        "pick_rate": 0.1905
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 544,
+        "hero_name": "赵怀真",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/544.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 4,
+        "victory_battle_count": 2,
+        "defeated_battle_count": 2,
+        "win_rate": 0.5,
+        "avg_kill_num": 0.75,
+        "avg_assist_num": 6,
+        "avg_death_num": 3.5,
+        "avg_kda": 3.125,
+        "avg_gold": 8630,
+        "avg_game_duration": 1050000
+      },
+      "bp_statistics_info": {
+        "ban_num": 1,
+        "ban_rate": 0.0095,
+        "pick_num": 4,
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 156,
+        "hero_name": "张良",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/156.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 3,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 2,
+        "win_rate": 0.3333,
+        "avg_kill_num": 1,
+        "avg_assist_num": 4.6667,
+        "avg_death_num": 3,
+        "avg_kda": 2.3667,
+        "avg_gold": 8054,
+        "avg_game_duration": 1038666.7
+      },
+      "bp_statistics_info": {
+        "ban_num": 6,
+        "ban_rate": 0.0571,
+        "pick_num": 3,
+        "pick_rate": 0.0286
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 138,
+        "hero_name": "王维",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/138.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 15,
+        "victory_battle_count": 9,
+        "defeated_battle_count": 6,
+        "win_rate": 0.6,
+        "avg_kill_num": 1.8667,
+        "avg_assist_num": 4,
+        "avg_death_num": 1.4,
+        "avg_kda": 4.5,
+        "avg_gold": 9785.667,
+        "avg_game_duration": 963400
+      },
+      "bp_statistics_info": {
+        "ban_num": 7,
+        "ban_rate": 0.0667,
+        "pick_num": 15,
+        "pick_rate": 0.1429
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 179,
+        "hero_name": "女娲",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/179.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 16,
+        "victory_battle_count": 10,
+        "defeated_battle_count": 6,
+        "win_rate": 0.625,
+        "avg_kill_num": 1.125,
+        "avg_assist_num": 5.25,
+        "avg_death_num": 0.9375,
+        "avg_kda": 6.1875,
+        "avg_gold": 9772.9375,
+        "avg_game_duration": 982812.5
+      },
+      "bp_statistics_info": {
+        "ban_num": 15,
+        "ban_rate": 0.1429,
+        "pick_num": 16,
+        "pick_rate": 0.1524
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 521,
+        "hero_name": "海月",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/521.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 29,
+        "victory_battle_count": 20,
+        "defeated_battle_count": 9,
+        "win_rate": 0.6897,
+        "avg_kill_num": 1.6552,
+        "avg_assist_num": 3.8966,
+        "avg_death_num": 1.5862,
+        "avg_kda": 4.1069,
+        "avg_gold": 9222.793,
+        "avg_game_duration": 969310.4
+      },
+      "bp_statistics_info": {
+        "ban_num": 59,
+        "ban_rate": 0.5619,
+        "pick_num": 29,
+        "pick_rate": 0.2762
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 135,
+        "hero_name": "项羽",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/135.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 13,
+        "victory_battle_count": 8,
+        "defeated_battle_count": 5,
+        "win_rate": 0.6154,
+        "avg_kill_num": 1.0769,
+        "avg_assist_num": 5.3077,
+        "avg_death_num": 2.0769,
+        "avg_kda": 3.8462,
+        "avg_gold": 9043.615,
+        "avg_game_duration": 1051384.6
+      },
+      "bp_statistics_info": {
+        "ban_num": 7,
+        "ban_rate": 0.0667,
+        "pick_num": 13,
+        "pick_rate": 0.1238
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 140,
+        "hero_name": "关羽",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/140.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 27,
+        "victory_battle_count": 16,
+        "defeated_battle_count": 11,
+        "win_rate": 0.5926,
+        "avg_kill_num": 1.3704,
+        "avg_assist_num": 4.2222,
+        "avg_death_num": 1.4444,
+        "avg_kda": 4.537,
+        "avg_gold": 10997.074,
+        "avg_game_duration": 1027111.1
+      },
+      "bp_statistics_info": {
+        "ban_num": 63,
+        "ban_rate": 0.6,
+        "pick_num": 27,
+        "pick_rate": 0.2571
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 107,
+        "hero_name": "赵云",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/107.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 37,
+        "victory_battle_count": 22,
+        "defeated_battle_count": 15,
+        "win_rate": 0.5946,
+        "avg_kill_num": 2.1351,
+        "avg_assist_num": 4.4054,
+        "avg_death_num": 1.4595,
+        "avg_kda": 5.3162,
+        "avg_gold": 11832.54,
+        "avg_game_duration": 955945.94
+      },
+      "bp_statistics_info": {
+        "ban_num": 39,
+        "ban_rate": 0.3714,
+        "pick_num": 37,
+        "pick_rate": 0.3524
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 196,
+        "hero_name": "百里守约",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/196.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 27,
+        "victory_battle_count": 17,
+        "defeated_battle_count": 10,
+        "win_rate": 0.6296,
+        "avg_kill_num": 1.8519,
+        "avg_assist_num": 3.2593,
+        "avg_death_num": 0.4444,
+        "avg_kda": 4.8704,
+        "avg_gold": 11415.333,
+        "avg_game_duration": 929222.25
+      },
+      "bp_statistics_info": {
+        "ban_num": 16,
+        "ban_rate": 0.1524,
+        "pick_num": 27,
+        "pick_rate": 0.2571
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 170,
+        "hero_name": "刘备",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/170.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 4,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 3,
+        "win_rate": 0.25,
+        "avg_kill_num": 1.5,
+        "avg_assist_num": 2,
+        "avg_death_num": 2,
+        "avg_kda": 2.2,
+        "avg_gold": 10425,
+        "avg_game_duration": 819000
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 4,
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 533,
+        "hero_name": "阿古朵",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/533.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 7,
+        "victory_battle_count": 3,
+        "defeated_battle_count": 4,
+        "win_rate": 0.4286,
+        "avg_kill_num": 2.7143,
+        "avg_assist_num": 3.7143,
+        "avg_death_num": 1.4286,
+        "avg_kda": 4.6857,
+        "avg_gold": 10798,
+        "avg_game_duration": 907714.3
+      },
+      "bp_statistics_info": {
+        "ban_num": 13,
+        "ban_rate": 0.1238,
+        "pick_num": 7,
+        "pick_rate": 0.0667
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 547,
+        "hero_name": "卢雅那",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/547.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 6,
+        "victory_battle_count": 3,
+        "defeated_battle_count": 3,
+        "win_rate": 0.5,
+        "avg_kill_num": 2.6667,
+        "avg_assist_num": 4.1667,
+        "avg_death_num": 2.1667,
+        "avg_kda": 4.4167,
+        "avg_gold": 11993.333,
+        "avg_game_duration": 1007333.3
+      },
+      "bp_statistics_info": {
+        "ban_num": 4,
+        "ban_rate": 0.0381,
+        "pick_num": 6,
+        "pick_rate": 0.0571
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 123,
+        "hero_name": "吕布",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/123.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 2,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 1,
+        "win_rate": 0.5,
+        "avg_kill_num": 1.5,
+        "avg_assist_num": 2,
+        "avg_death_num": 1,
+        "avg_kda": 3.5,
+        "avg_gold": 8938,
+        "avg_game_duration": 882500
+      },
+      "bp_statistics_info": {
+        "ban_num": 3,
+        "ban_rate": 0.0286,
+        "pick_num": 2,
+        "pick_rate": 0.019
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 174,
+        "hero_name": "虞姬",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/174.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 4,
+        "victory_battle_count": 2,
+        "defeated_battle_count": 2,
+        "win_rate": 0.5,
+        "avg_kill_num": 1.75,
+        "avg_assist_num": 2,
+        "avg_death_num": 1.5,
+        "avg_kda": 3,
+        "avg_gold": 10711,
+        "avg_game_duration": 907250
+      },
+      "bp_statistics_info": {
+        "ban_num": 2,
+        "ban_rate": 0.019,
+        "pick_num": 4,
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 545,
+        "hero_name": "莱西奥",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/545.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 21,
+        "victory_battle_count": 10,
+        "defeated_battle_count": 11,
+        "win_rate": 0.4762,
+        "avg_kill_num": 2.619,
+        "avg_assist_num": 3.619,
+        "avg_death_num": 1.381,
+        "avg_kda": 4.6476,
+        "avg_gold": 12282.048,
+        "avg_game_duration": 1003809.5
+      },
+      "bp_statistics_info": {
+        "ban_num": 4,
+        "ban_rate": 0.0381,
+        "pick_num": 21,
+        "pick_rate": 0.2
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 176,
+        "hero_name": "杨玉环",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/176.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 7,
+        "victory_battle_count": 4,
+        "defeated_battle_count": 3,
+        "win_rate": 0.5714,
+        "avg_kill_num": 1.5714,
+        "avg_assist_num": 3.5714,
+        "avg_death_num": 1.4286,
+        "avg_kda": 4.1143,
+        "avg_gold": 9213.714,
+        "avg_game_duration": 926428.56
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 7,
+        "pick_rate": 0.0667
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 105,
+        "hero_name": "廉颇",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/105.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 1,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 0,
+        "win_rate": 1,
+        "avg_kill_num": 2,
+        "avg_assist_num": 10,
+        "avg_death_num": 2,
+        "avg_kda": 6,
+        "avg_gold": 9395,
+        "avg_game_duration": 1117000
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 1,
+        "pick_rate": 0.0095
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 550,
+        "hero_name": "空空儿",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/550.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 2,
+        "victory_battle_count": 2,
+        "defeated_battle_count": 0,
+        "win_rate": 1,
+        "avg_kill_num": 0,
+        "avg_assist_num": 7.5,
+        "avg_death_num": 0.5,
+        "avg_kda": 7.5,
+        "avg_gold": 9571.5,
+        "avg_game_duration": 1089000
+      },
+      "bp_statistics_info": {
+        "ban_num": 2,
+        "ban_rate": 0.019,
+        "pick_num": 2,
+        "pick_rate": 0.019
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 172,
+        "hero_name": "蚩奼",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/172.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 2,
+        "victory_battle_count": 0,
+        "defeated_battle_count": 2,
+        "win_rate": 0,
+        "avg_kill_num": 0.5,
+        "avg_assist_num": 0,
+        "avg_death_num": 1,
+        "avg_kda": 0.5,
+        "avg_gold": 7846,
+        "avg_game_duration": 752500
+      },
+      "bp_statistics_info": {
+        "ban_num": 2,
+        "ban_rate": 0.019,
+        "pick_num": 2,
+        "pick_rate": 0.019
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 152,
+        "hero_name": "王昭君",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/152.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 1,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 0,
+        "win_rate": 1,
+        "avg_kill_num": 1,
+        "avg_assist_num": 8,
+        "avg_death_num": 0,
+        "avg_kda": 9,
+        "avg_gold": 8298,
+        "avg_game_duration": 942000
+      },
+      "bp_statistics_info": {
+        "ban_num": 0,
+        "ban_rate": 0,
+        "pick_num": 1,
+        "pick_rate": 0.0095
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 542,
+        "hero_name": "暃",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/542.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 4,
+        "victory_battle_count": 0,
+        "defeated_battle_count": 4,
+        "win_rate": 0,
+        "avg_kill_num": 3.25,
+        "avg_assist_num": 1.75,
+        "avg_death_num": 3,
+        "avg_kda": 2.05,
+        "avg_gold": 11426.25,
+        "avg_game_duration": 910500
+      },
+      "bp_statistics_info": {
+        "ban_num": 3,
+        "ban_rate": 0.0286,
+        "pick_num": 4,
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 151,
+        "hero_name": "孙权",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/151.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 3,
+        "victory_battle_count": 2,
+        "defeated_battle_count": 1,
+        "win_rate": 0.6667,
+        "avg_kill_num": 2.6667,
+        "avg_assist_num": 4,
+        "avg_death_num": 1.6667,
+        "avg_kda": 3.7667,
+        "avg_gold": 12966,
+        "avg_game_duration": 1062333.4
+      },
+      "bp_statistics_info": {
+        "ban_num": 2,
+        "ban_rate": 0.019,
+        "pick_num": 3,
+        "pick_rate": 0.0286
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 517,
+        "hero_name": "大司命",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/517.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 12,
+        "victory_battle_count": 6,
+        "defeated_battle_count": 6,
+        "win_rate": 0.5,
+        "avg_kill_num": 1.25,
+        "avg_assist_num": 3.8333,
+        "avg_death_num": 1.6667,
+        "avg_kda": 3.4417,
+        "avg_gold": 10744.5,
+        "avg_game_duration": 1025083.3
+      },
+      "bp_statistics_info": {
+        "ban_num": 26,
+        "ban_rate": 0.2476,
+        "pick_num": 12,
+        "pick_rate": 0.1143
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 537,
+        "hero_name": "司空震",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/537.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 18,
+        "victory_battle_count": 9,
+        "defeated_battle_count": 9,
+        "win_rate": 0.5,
+        "avg_kill_num": 1.3889,
+        "avg_assist_num": 2.7778,
+        "avg_death_num": 1.1667,
+        "avg_kda": 3.3778,
+        "avg_gold": 9881.667,
+        "avg_game_duration": 881444.44
+      },
+      "bp_statistics_info": {
+        "ban_num": 20,
+        "ban_rate": 0.1905,
+        "pick_num": 18,
+        "pick_rate": 0.1714
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 503,
+        "hero_name": "狂铁",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/503.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 26,
+        "victory_battle_count": 12,
+        "defeated_battle_count": 14,
+        "win_rate": 0.4615,
+        "avg_kill_num": 0.9231,
+        "avg_assist_num": 3.8077,
+        "avg_death_num": 1.6923,
+        "avg_kda": 3.4038,
+        "avg_gold": 8759.577,
+        "avg_game_duration": 878576.94
+      },
+      "bp_statistics_info": {
+        "ban_num": 17,
+        "ban_rate": 0.1619,
+        "pick_num": 26,
+        "pick_rate": 0.2476
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 169,
+        "hero_name": "后羿",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/169.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 3,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 2,
+        "win_rate": 0.3333,
+        "avg_kill_num": 1.3333,
+        "avg_assist_num": 2.3333,
+        "avg_death_num": 2,
+        "avg_kda": 2.1,
+        "avg_gold": 8523.333,
+        "avg_game_duration": 816666.7
+      },
+      "bp_statistics_info": {
+        "ban_num": 7,
+        "ban_rate": 0.0667,
+        "pick_num": 3,
+        "pick_rate": 0.0286
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 139,
+        "hero_name": "老夫子",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/139.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 2,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 1,
+        "win_rate": 0.5,
+        "avg_kill_num": 0,
+        "avg_assist_num": 2,
+        "avg_death_num": 1.5,
+        "avg_kda": 1.25,
+        "avg_gold": 12824,
+        "avg_game_duration": 1138000
+      },
+      "bp_statistics_info": {
+        "ban_num": 7,
+        "ban_rate": 0.0667,
+        "pick_num": 2,
+        "pick_rate": 0.019
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 112,
+        "hero_name": "鲁班七号",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/112.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 1,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 0,
+        "win_rate": 1,
+        "avg_kill_num": 3,
+        "avg_assist_num": 5,
+        "avg_death_num": 0,
+        "avg_kda": 8,
+        "avg_gold": 16120,
+        "avg_game_duration": 1202000
+      },
+      "bp_statistics_info": {
+        "ban_num": 1,
+        "ban_rate": 0.0095,
+        "pick_num": 1,
+        "pick_rate": 0.0095
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 515,
+        "hero_name": "嫦娥",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/515.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 7,
+        "victory_battle_count": 4,
+        "defeated_battle_count": 3,
+        "win_rate": 0.5714,
+        "avg_kill_num": 0.7143,
+        "avg_assist_num": 4.8571,
+        "avg_death_num": 0.8571,
+        "avg_kda": 4.7143,
+        "avg_gold": 10206.429,
+        "avg_game_duration": 1031285.7
+      },
+      "bp_statistics_info": {
+        "ban_num": 1,
+        "ban_rate": 0.0095,
+        "pick_num": 7,
+        "pick_rate": 0.0667
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 538,
+        "hero_name": "云缨",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/538.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 5,
+        "victory_battle_count": 1,
+        "defeated_battle_count": 4,
+        "win_rate": 0.2,
+        "avg_kill_num": 2.2,
+        "avg_assist_num": 1.8,
+        "avg_death_num": 1.6,
+        "avg_kda": 3.2,
+        "avg_gold": 12291,
+        "avg_game_duration": 1019800
+      },
+      "bp_statistics_info": {
+        "ban_num": 4,
+        "ban_rate": 0.0381,
+        "pick_num": 5,
+        "pick_rate": 0.0476
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 108,
+        "hero_name": "墨子",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/108.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 4,
+        "victory_battle_count": 3,
+        "defeated_battle_count": 1,
+        "win_rate": 0.75,
+        "avg_kill_num": 0.25,
+        "avg_assist_num": 10,
+        "avg_death_num": 2,
+        "avg_kda": 7.3,
+        "avg_gold": 8416.5,
+        "avg_game_duration": 1032750
+      },
+      "bp_statistics_info": {
+        "ban_num": 4,
+        "ban_rate": 0.0381,
+        "pick_num": 4,
+        "pick_rate": 0.0381
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 186,
+        "hero_name": "太乙真人",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/186.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 22,
+        "victory_battle_count": 10,
+        "defeated_battle_count": 12,
+        "win_rate": 0.4545,
+        "avg_kill_num": 0.2273,
+        "avg_assist_num": 5.0909,
+        "avg_death_num": 1.4091,
+        "avg_kda": 4.3227,
+        "avg_gold": 7462.091,
+        "avg_game_duration": 911909.06
+      },
+      "bp_statistics_info": {
+        "ban_num": 4,
+        "ban_rate": 0.0381,
+        "pick_num": 22,
+        "pick_rate": 0.2095
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 577,
+        "hero_name": "少司缘",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/577.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 33,
+        "victory_battle_count": 14,
+        "defeated_battle_count": 19,
+        "win_rate": 0.4242,
+        "avg_kill_num": 0.4848,
+        "avg_assist_num": 5.1818,
+        "avg_death_num": 1.6667,
+        "avg_kda": 4.2152,
+        "avg_gold": 8662.424,
+        "avg_game_duration": 972939.4
+      },
+      "bp_statistics_info": {
+        "ban_num": 11,
+        "ban_rate": 0.1048,
+        "pick_num": 33,
+        "pick_rate": 0.3143
+      }
+    },
+    {
+      "hero_info": {
+        "hero_id": 558,
+        "hero_name": "影",
+        "hero_icon": "https://res.edata.qq.com/sgame/static/images/hero/558.jpg"
+      },
+      "statistics_info": {
+        "battle_count": 8,
+        "victory_battle_count": 5,
+        "defeated_battle_count": 3,
+        "win_rate": 0.625,
+        "avg_kill_num": 2.5,
+        "avg_assist_num": 3.375,
+        "avg_death_num": 1.375,
+        "avg_kda": 4.95,
+        "avg_gold": 11141.5,
+        "avg_game_duration": 944125
+      },
+      "bp_statistics_info": {
+        "ban_num": 1,
+        "ban_rate": 0.0095,
+        "pick_num": 8,
+        "pick_rate": 0.0762
       }
     }
   ]
