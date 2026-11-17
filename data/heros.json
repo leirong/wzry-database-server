@@ -1724,12 +1724,27 @@
       "id_name": "wangwei",
       "title": "空山遗客",
       "time": "2026.09.23",
-      "new_type": 1,
+      "new_type": 0,
       "hero_type": 2,
       "skin_name": "空山遗客",
       "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/wangwei.html",
       "moss_id": 9403,
       "roles": "2",
+      "extra_cold_lane": "",
+      "isLimitHero": true
+    },
+    {
+      "ename": 646,
+      "cname": "刀锋宝贝",
+      "id_name": "daofengbaobei",
+      "title": "绝命锋影",
+      "time": "2026.11.17",
+      "new_type": 1,
+      "hero_type": 4,
+      "skin_name": "绝命锋影",
+      "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/daofengbaobei.html",
+      "moss_id": 9709,
+      "roles": "4",
       "extra_cold_lane": ""
     }
   ]
