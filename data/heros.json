@@ -1731,7 +1731,7 @@
       "moss_id": 9403,
       "roles": "2",
       "extra_cold_lane": "",
-      "isLimitHero": true
+      "isLimitHero": ""
     },
     {
       "ename": 646,
@@ -1746,6 +1746,96 @@
       "moss_id": 9709,
       "roles": "4",
       "extra_cold_lane": ""
+    },
+    {
+      "ename": 632,
+      "cname": "绯泪",
+      "id_name": "feilei",
+      "title": "猩红之刺",
+      "time": "2026.11.17",
+      "new_type": 0,
+      "hero_type": 1,
+      "skin_name": "猩红之刺",
+      "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/feilei.html",
+      "moss_id": 9710,
+      "roles": "1",
+      "extra_cold_lane": "",
+      "isLimitHero": true
+    },
+    {
+      "ename": 648,
+      "cname": "星葵",
+      "id_name": "xingkui",
+      "title": "琉影龙痕",
+      "time": "2026.11.17",
+      "new_type": 1,
+      "hero_type": 4,
+      "skin_name": "琉影龙痕",
+      "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/xingkui.html",
+      "moss_id": 9711,
+      "roles": "4",
+      "extra_cold_lane": "",
+      "isLimitHero": true
+    },
+    {
+      "ename": 633,
+      "cname": "卡芬妮",
+      "id_name": "kafenni",
+      "title": "幽蓝炮姬",
+      "time": "2026.11.17",
+      "new_type": 0,
+      "hero_type": 5,
+      "skin_name": "幽蓝炮姬",
+      "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/kafenni.html",
+      "moss_id": 9712,
+      "roles": "5",
+      "extra_cold_lane": "",
+      "isLimitHero": true
+    },
+    {
+      "ename": 652,
+      "cname": "索文",
+      "id_name": "suowen",
+      "title": "颠覆之子",
+      "time": "2026.11.17",
+      "new_type": 0,
+      "hero_type": 5,
+      "skin_name": "颠覆之子",
+      "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/suowen.html",
+      "moss_id": 9713,
+      "roles": "5",
+      "extra_cold_lane": "",
+      "isLimitHero": true
+    },
+    {
+      "ename": 630,
+      "cname": "莉莉安",
+      "id_name": "lilian",
+      "title": "颠覆之子",
+      "time": "2026.11.17",
+      "new_type": 0,
+      "hero_type": 2,
+      "skin_name": "九尾",
+      "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/lilian.html",
+      "moss_id": 9714,
+      "roles": "2",
+      "extra_cold_lane": "",
+      "isLimitHero": true
+    },
+    {
+      "ename": 649,
+      "cname": "皮皮",
+      "id_name": "pipi",
+      "title": "飞毛球",
+      "time": "2026.11.17",
+      "new_type": 0,
+      "hero_type": 6,
+      "skin_name": "飞毛球",
+      "m_bl_link": "//pvp.qq.com/ingame/all/tobe/newheros/pipi.html",
+      "moss_id": 9715,
+      "roles": "6",
+      "extra_cold_lane": "",
+      "isLimitHero": true
     }
   ]
 }
